@@ -18,3 +18,4 @@ Right half
 
 ### Future features
 - Built in youtube searcher and video collector
+- Progress bar
